@@ -1,0 +1,54 @@
+{
+    "name": "PushIcon",
+    "description": "waylon 自用 Loon 图标集",
+    "icons": [
+        {
+            "name": "Kraken",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Kraken.png"
+        },
+        {
+            "name": "LB",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/LB.png"
+        },
+        {
+            "name": "TM",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/TM.png"
+        },
+        {
+            "name": "WeChat",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/WeChat.png"
+        },
+        {
+            "name": "ZTO",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/ZTO.png"
+        },
+        {
+            "name": "taobao",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/taobao.png"
+        },
+        {
+            "name": "xianyu",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/xianyu.png"
+        },
+        {
+            "name": "WhatsApp",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/WhatsApp.png"
+        },
+        {
+            "name": "Binance",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Binance.png"
+        },
+        {
+            "name": "OKX",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/OKX.png"
+        },
+        {
+            "name": "Bybit",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Bybit.png"
+        },
+        {
+            "name": "Gate",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Gate.png"
+        }
+    ]
+}
