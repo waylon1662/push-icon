@@ -49,6 +49,10 @@
         {
             "name": "Gate",
             "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Gate.png"
+        },
+        {
+            "name": "Siri",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Siri.png"
         }
     ]
 }
