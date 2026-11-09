@@ -53,6 +53,10 @@
         {
             "name": "Siri",
             "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Siri.png"
+        },
+        {
+            "name": "Meta",
+            "url": "https://raw.githubusercontent.com/waylon1662/push-icon/main/Meta.png"
         }
     ]
 }
